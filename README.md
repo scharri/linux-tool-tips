@@ -12,5 +12,7 @@
   - [vscode-proto3](https://github.com/zxh0/vscode-proto3) - "Protobuf 3 support for Visual Studio Code"
   - [python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - "Python extension for Visual Studio Code"
   - [Pyright](https://github.com/microsoft/pyright) - "Static type checker for Python"
+- [tio](https://github.com/tio/tio) - a simple serial terminal I/O tool
+  - ![tio demo](https://raw.githubusercontent.com/tio/tio/master/images/tio-demo.gif)
 ## Database
 - [Beekeeper Studio](https://www.beekeeperstudio.io/) - "The smoothest, best looking, and easiest to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more."
